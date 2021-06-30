@@ -1,16 +1,16 @@
 # covid-global
 
 ```shell
-npm install crypto-global
+npm install covid-global
 ```
 
 A fast and stable module that provides information about country's current situation of COVID-19
 
 ```javascript
-const korona = require("./covid.js")
+const covid = require("covid-global")
 
 async function output() {
-    let country = await korona.country("Afghanistan")
+    let country = await covid.country("Afghanistan")
     console.log(country)
 }
 output()
