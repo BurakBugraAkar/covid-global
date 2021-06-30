@@ -19,8 +19,6 @@ output()
 Data output
 
 ```cmd
-output() 
-
 > {
 >   stats: 202,
 >   country: 'Afghanistan',
