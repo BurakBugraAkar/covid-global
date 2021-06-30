@@ -1,0 +1,27 @@
+{
+  "name": "covid-global",
+  "version": "2.4.3",
+  "description": "A fast and stable module that provides information about country's current situation of COVID-19",
+  "main": "covid.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurakBugraAkar/covid-global.git"
+  },
+  "keywords": [
+    "covid"
+  ],
+  "author": "Fio#2794 'Ryuk#4102",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BurakBugraAkar/covid-global/issues"
+  },
+  "homepage": "https://github.com/BurakBugraAkar/covid-global#readme"
+}
