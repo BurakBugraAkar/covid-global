@@ -1,6 +1,6 @@
 {
   "name": "covid-global",
-  "version": "2.4.3",
+  "version": "2.4.4",
   "description": "A fast and stable module that provides information about country's current situation of COVID-19",
   "main": "covid.js",
   "dependencies": {
