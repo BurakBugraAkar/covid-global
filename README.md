@@ -10,7 +10,7 @@ A fast and stable module that provides information about country's current situa
 const covid = require("covid-global")
 
 async function output() {
-    let country = await covid.country("Afghanistan")
+    let country = await covid.country("Turkey")
     console.log(country)
 }
 output()
@@ -40,5 +40,10 @@ Data output
 #Units
 ```cmd
 You can pull information of COVID-19 current situation by typing the name of the country you choose on the world!
+```
+
+#Update Note
+```cmd
+Only bug fixes and new features are updated.
 ```
 
